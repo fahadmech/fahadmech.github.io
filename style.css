@@ -1,0 +1,35 @@
+body {
+    background: url(https://images.unsplash.com/photo-1489844097929-c8d5b91c456e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=752&q=80);
+    background-size: cover;
+    background-position: center;
+    font-family: Lato;
+    color: white;
+}
+html {
+    height: 100%;
+}
+#mc_embed_signup {
+    clear:left; font:14px Helvetica,Arial,sans-serif; 
+}
+#content {
+    text-align: center;
+    padding-top: 25%;
+    text-shadow: 0px 4px 3px rgba(67,63,65,0.4),
+                 0px 8px 13px rgba(67,63,65,0.1),
+                 0px 18px 23px rgba(67,63,65.1);
+}
+h1 {
+    font-weight: 700;
+    font-size: 5em;
+}
+hr {
+    width: 400%;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+.btn {
+    transition: 300ms;
+}
+.btn:hover {
+    transform: scale(1.1);
+}
